@@ -1,20 +1,10 @@
 ---
 title: Hello World
-description: Welcome to Hugo Theme Stack
+description: This is my first post.
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2025-01-28T16:25:37+01:00
 image: cover.jpg
-categories:
-    - Example Category
-tags:
-    - Example Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+#weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+Welcome to my personal blog. This platform functions as a dynamic repository for my evolving thoughts, ideas, and an overview of my ongoing projects. Explore to discover a unique synthesis of insights, reflections, and the process of bringing concepts to fruition. Herein, you will gain an intimate understanding of my passions, professional endeavours, and the creative processes that underpin my work.
